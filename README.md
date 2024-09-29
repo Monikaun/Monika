@@ -1,11 +1,11 @@
 # Monika
 # 💫 About Me:
-🎓 Data Analyst enthusiast with expertise in SQL, Excel, Power Query, and Tableau.
-💻 Skilled in Data Cleaning, Data Transformation, Data Visualization, and Exploration.
-📊 Passionate about turning raw data into actionable insights for decision-making.
-📈 Recently completed projects involving pizza databases using MySQL and Tableau for interactive visualizations.
-🚀 Actively seeking opportunities to apply my knowledge in Data Extraction, Documentation, and Reporting.
-👥 Strong collaborator with a focus on continuous improvement and cross-functional communication.
+🎓 Data Analyst enthusiast with expertise in SQL, Excel, Power Query, and Tableau.<br><br>
+💻 Skilled in Data Cleaning, Data Transformation, Data Visualization, and Exploration.<br><br>
+📊 Passionate about turning raw data into actionable insights for decision-making.<br><br>
+📈 Recently completed projects involving pizza databases using MySQL and Tableau for interactive visualizations.<br><br>
+🚀 Actively seeking opportunities to apply my knowledge in Data Extraction, Documentation, and Reporting.<br><br>
+👥 Strong collaborator with a focus on continuous improvement and cross-functional communication.<br><br>
 📚 Lifelong learner, committed to enhancing my skill set with new technologies and tools in data science and analytics.
 
 
@@ -18,6 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Monikaun&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Monikaun&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monikaun&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Monikaun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Monikaun&icon=0&color=0)](https://visitcount.itsvg.in)
